@@ -1,0 +1,103 @@
+h1 {
+	color: #95CCE4 !important;
+	font-family: 'Code', sans-serif !important;
+}
+h2 {
+	color: #B6D8C0 !important;
+	font-family: 'CaviarDream', sans-serif !important;
+}
+h3 {
+	color: #FECCBA !important;
+	font-family: 'CaviarDream', sans-serif !important;
+}
+h4 {
+	font-family: 'Code', sans-serif !important;
+}
+h5 {
+	font-family: 'Code', sans-serif !important;
+}
+a {
+	color: black !important;
+	text-decoration: none;
+	text-align: center;
+}
+
+body{
+	background-color: #FBF5EF !important;
+	/*text-align: justify*/;
+}
+
+#avatar	{
+	width: 180px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0.19);
+}
+
+.network {
+	width: 50px;
+	padding:6px;
+	margin: 3px;
+}
+
+.bouton {
+	color: #FFFFFF !important;
+}
+
+.border-blue {
+	border:solid 2px #95CCE4;
+}
+
+.border-green {
+	border:solid 2px #B6D8C0;
+}
+
+.my-div{
+	background-color: #FBF5EF;
+	padding: 30px;
+	margin: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	border:dotted 3px #FEDCBA;
+	border-radius: 30px;
+}
+
+.social-network {
+	text-align: center;
+	font-size: 30px !important;
+	padding: 6px;
+	color: #000000;
+}
+
+.yellow{
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+/*	position: relative;*/
+}
+
+.blue{
+	background-color: blue;
+	width: 50px;
+	height: 50px;
+/*	position: absolute;
+	bottom: 50px;
+	left: 10px;*/
+}
+
+.orange{
+	background-color: orange;
+	width: 50px;
+	height: 50px;
+/*	position: absolute;
+	bottom: 50px;
+	left: 10px;*/
+}
+
+.navigation{
+	padding: 20px;
+	margin: 5px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
