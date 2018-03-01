@@ -49,6 +49,18 @@ font-family: 'Open Sans Condensed', sans-serif;
 }
 
 
+/* User Avatar */
+
+.navbar-wagon .avatar {
+
+  height: 35px;
+
+  width: 35px;
+
+  border-radius: 50%;
+
+}
+
 
 /* Right section */
 
